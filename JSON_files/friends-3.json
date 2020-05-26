@@ -1,17 +1,17 @@
 [
     {
         "name": "David", 
-        "age": 17, 
+        "age": 15, 
         "gender": "male"
     }, 
     {
         "name":"Nell",
-        "age":17, 
+        "age":15, 
         "gender": "male"
     }, 
     {
         "name":"Misha",
-        "age":16,
+        "age":15,
         "gender":"male"
     }
 ]
