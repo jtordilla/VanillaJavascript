@@ -16,6 +16,13 @@ body{
     background:white;
 }
 
+#projectile{
+    position:absolute;
+    width:100px;
+    height:5px; 
+    background:red; 
+}
+
 #clicker{
     padding:20px; 
     margin:30px;

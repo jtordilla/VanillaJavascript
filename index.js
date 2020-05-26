@@ -1,5 +1,5 @@
 //DOM: innerHTML, style, animations and intervals, event listeners, and nodes
-//BOM: 
+//BOM: window, prompt, confirm, onload
 
 function changeAppear(){
     var message = document.getElementById("message"); 
