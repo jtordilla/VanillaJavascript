@@ -1,4 +1,4 @@
-//DOM: innerHTML, style, animations and intervals, event listeners, and nodes
+//DOM: innerHTML, style, animations and intervals, event listeners, form elements, and nodes
 //BOM: window, prompt, confirm, onload
 
 function changeAppear(){
